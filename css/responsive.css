@@ -1,0 +1,25 @@
+@media screen and (max-width: 800px) {
+    .container img {
+        margin-top: -150px;
+    }
+    .heading-text {
+        width: auto;
+        font-size: 3.8rem;
+    }
+    .intro-para {
+        width: 60%;
+    }
+    .my-skills {
+        width: 70%;
+        margin: 100px auto;
+        text-align: center;
+    }
+    .my-skills .circle-image {
+        float: none;
+        margin: auto;
+    }
+    .last-para {
+        width: 60%;
+        margin: 20px auto;
+    }
+}
